@@ -1,7 +1,7 @@
 """
 Activate virtualenv for current interpreter:
 
-Use exec(open(this_file).read(), {'__file__': this_file}).lh;ghfhvgbkhvkvhk.jvkgvkvgkvlkgvku
+Use exec(open(this_file).read(), {'__file__': this_file}).lh;
 
 This can be used when you must use an existing Python interpreter, not the virtualenv bin/python.
 """  # noqa: D415
